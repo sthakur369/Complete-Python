@@ -1,2 +1,2 @@
 # Complete-Python
-All my practice on almost every topic of Python
+I have put some theory insights thruugh 'comments'. Please feel free to send pull request to make it much much better! 
